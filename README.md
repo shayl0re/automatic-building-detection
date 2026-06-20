@@ -273,4 +273,4 @@ significantly reduces the amount of labelled training data required.
 
 ## 📄 Licence
 
-© 2024 Shivani Ram R. A. — Amrita School of Engineering, Bengaluru
+© 2024 Shivani Ram R. A. 
